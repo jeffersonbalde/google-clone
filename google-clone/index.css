@@ -1,0 +1,33 @@
+.main {
+    margin-top: 100px;
+}
+
+.logo-img {
+    display: block;
+    width: 300px;
+    margin: 0px auto 20px auto;
+}
+
+.search-input {
+    display: block;
+    width: 400px;
+    margin: 0px auto;
+    line-height: 24px;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
+.btn {
+    margin: 30px 4px 0px 4px;
+    background: #dfe1e5;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
